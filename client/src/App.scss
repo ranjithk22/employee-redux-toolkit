@@ -1,0 +1,73 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+.wrapper {
+  a,
+  a:hover,
+  a:focus,
+  a:active{
+    text-decoration: none;
+  }
+  .btn-primary{  
+    background: $purple-500;
+    border-color: $purple-500;
+    &:hover{   
+      background: $purple-700;
+      border-color: $purple-700;
+    }
+    &:focus,
+    &:active{ 
+      background: $purple-700;
+      border-color: $purple-700;  
+      box-shadow: 0 0 0 0.25rem rgba(111, 66, 193, .5);
+    }
+  }
+  .profile-pic{
+    width: 30px;
+    border-radius: 15px;
+  }
+
+  &>header{
+    color:#EEE;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background: $purple-600;
+    h4{
+      a{
+        color: #FFFFFF;
+      }
+    }
+  }
+  .content{
+    background: $purple-100;
+    min-height: calc(100vh - 100px);
+    padding:30px;
+    margin-top:20px;
+    margin-bottom:20px;
+    .employeeList{
+      table{
+        background: $white;
+      }
+
+    }
+    .employee-item{
+      border: 1px solid #DDD;
+    }
+    .profile-pic-url{
+      width: 200px; 
+      p{
+        width: 200px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        margin-bottom: 0;
+      }
+    }
+    .add-employee{
+      label{
+        margin-right: 20px;
+        min-width: 150px;
+      }
+    }
+  }
+}

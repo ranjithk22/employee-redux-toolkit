@@ -1,0 +1,84 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "profilePic": "https://i.pinimg.com/originals/85/59/09/855909df65727e5c7ba5e11a8c45849a.png",
+            "name": "Ranjith",
+            "age": 36,
+            "designation": "React Developer",
+            "status": true
+        },
+        {
+            "id": 2,
+            "profilePic": "https://i.pinimg.com/736x/0a/53/c3/0a53c3bbe2f56a1ddac34ea04a26be98.jpg",
+            "name": "Dolly",
+            "age": 30,
+            "designation": "Angular Developer",
+            "status": false
+        },
+        {
+            "id": 3,
+            "profilePic": "https://i.pinimg.com/originals/85/59/09/855909df65727e5c7ba5e11a8c45849a.png",
+            "name": "Ranjith",
+            "age": 36,
+            "designation": "React Developer",
+            "status": true
+        },
+        {
+            "id": 4,
+            "profilePic": "https://i.pinimg.com/736x/0a/53/c3/0a53c3bbe2f56a1ddac34ea04a26be98.jpg",
+            "name": "Dolly",
+            "age": 30,
+            "designation": "Angular Developer",
+            "status": false
+        },
+        {
+            "id": 5,
+            "profilePic": "https://i.pinimg.com/originals/85/59/09/855909df65727e5c7ba5e11a8c45849a.png",
+            "name": "Ranjith",
+            "age": 36,
+            "designation": "React Developer",
+            "status": true
+        },
+        {
+            "id": 6,
+            "profilePic": "https://i.pinimg.com/736x/0a/53/c3/0a53c3bbe2f56a1ddac34ea04a26be98.jpg",
+            "name": "Dolly",
+            "age": 30,
+            "designation": "Angular Developer",
+            "status": false
+        },
+        {
+            "id": 7,
+            "profilePic": "https://i.pinimg.com/originals/85/59/09/855909df65727e5c7ba5e11a8c45849a.png",
+            "name": "Ranjith",
+            "age": 36,
+            "designation": "React Developer",
+            "status": true
+        },
+        {
+            "id": 8,
+            "profilePic": "https://i.pinimg.com/736x/0a/53/c3/0a53c3bbe2f56a1ddac34ea04a26be98.jpg",
+            "name": "Dolly",
+            "age": 30,
+            "designation": "Angular Developer",
+            "status": false
+        },
+        {
+            "id": 9,
+            "profilePic": "https://i.pinimg.com/originals/85/59/09/855909df65727e5c7ba5e11a8c45849a.png",
+            "name": "Ranjith",
+            "age": 36,
+            "designation": "React Developer",
+            "status": true
+        },
+        {
+            "id": 10,
+            "profilePic": "https://i.pinimg.com/736x/0a/53/c3/0a53c3bbe2f56a1ddac34ea04a26be98.jpg",
+            "name": "Dolly",
+            "age": 30,
+            "designation": "Angular Developer",
+            "status": false
+        }
+    ]
+}
